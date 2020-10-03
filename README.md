@@ -1,9 +1,6 @@
-### Mia Khalifa Bot
+">
 
-<p align="center">
-<img src="https://telegra.ph/file/7891c5a8eb0ee937df8cd.jpg" alt="Mia Khalifa bot">
-
-[![Open Source Love](https://img.shields.io/badge/Find-on%20Telegram-blue.svg?logo=telegram)](https://telegram.dog/Mia_Khalifa_TGBot)  
+[![Open Source Love](https://img.shields.io/badge/Find-on%20Telegram-blue.svg?logo=telegram)]()  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
